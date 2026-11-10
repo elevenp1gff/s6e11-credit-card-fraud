@@ -1,0 +1,561 @@
+11-08 02:55:34 start: epochs 8 batch 16 lr 5e-05 K 10/4/10 seed 42 T 72 V 1372
+11-08 02:58:17 replica ep 1/60 step 2000/2500 loss 1.3089 106 rows/s
+11-08 02:59:00 replica: epoch 1/60 done, 3.2 min
+11-08 03:01:28 replica ep 2/60 step 2000/2500 loss 1.2345 105 rows/s
+11-08 03:02:11 replica: epoch 2/60 done, 6.4 min
+11-08 03:04:41 replica ep 3/60 step 2000/2500 loss 1.2272 105 rows/s
+11-08 03:05:24 replica: epoch 3/60 done, 9.6 min
+11-08 03:07:49 replica ep 4/60 step 2000/2500 loss 1.2246 105 rows/s
+11-08 03:08:34 replica: epoch 4/60 done, 12.8 min
+11-08 03:11:01 replica ep 5/60 step 2000/2500 loss 1.2215 105 rows/s
+11-08 03:11:43 replica: epoch 5/60 done, 16.0 min
+11-08 03:14:08 replica ep 6/60 step 2000/2500 loss 1.2202 105 rows/s
+11-08 03:14:51 replica: epoch 6/60 done, 19.1 min
+11-08 03:17:15 replica ep 7/60 step 2000/2500 loss 1.2188 105 rows/s
+11-08 03:17:59 replica: epoch 7/60 done, 22.2 min
+11-08 03:20:24 replica ep 8/60 step 2000/2500 loss 1.2170 106 rows/s
+11-08 03:21:07 replica: epoch 8/60 done, 25.4 min
+11-08 03:23:29 replica ep 9/60 step 2000/2500 loss 1.2157 106 rows/s
+11-08 03:24:11 replica: epoch 9/60 done, 28.4 min
+11-08 03:26:33 replica ep 10/60 step 2000/2500 loss 1.2151 106 rows/s
+11-08 03:27:16 replica: epoch 10/60 done, 31.5 min
+11-08 03:29:37 replica ep 11/60 step 2000/2500 loss 1.2144 106 rows/s
+11-08 03:30:20 replica: epoch 11/60 done, 34.6 min
+11-08 03:32:43 replica ep 12/60 step 2000/2500 loss 1.2127 106 rows/s
+11-08 03:33:25 replica: epoch 12/60 done, 37.6 min
+11-08 03:35:45 replica ep 13/60 step 2000/2500 loss 1.2113 107 rows/s
+11-08 03:36:22 replica: epoch 13/60 done, 40.6 min
+11-08 03:38:35 replica ep 14/60 step 2000/2500 loss 1.2103 107 rows/s
+11-08 03:39:15 replica: epoch 14/60 done, 43.5 min
+11-08 03:41:26 replica ep 15/60 step 2000/2500 loss 1.2085 108 rows/s
+11-08 03:42:05 replica: epoch 15/60 done, 46.3 min
+11-08 03:44:18 replica ep 16/60 step 2000/2500 loss 1.2071 109 rows/s
+11-08 03:44:58 replica: epoch 16/60 done, 49.2 min
+11-08 03:47:10 replica ep 17/60 step 2000/2500 loss 1.2050 109 rows/s
+11-08 03:47:49 replica: epoch 17/60 done, 52.1 min
+11-08 03:50:03 replica ep 18/60 step 2000/2500 loss 1.2032 109 rows/s
+11-08 03:50:42 replica: epoch 18/60 done, 54.9 min
+11-08 03:52:55 replica ep 19/60 step 2000/2500 loss 1.1998 110 rows/s
+11-08 03:53:33 replica: epoch 19/60 done, 57.8 min
+11-08 03:55:44 replica ep 20/60 step 2000/2500 loss 1.1974 110 rows/s
+11-08 03:56:24 replica: epoch 20/60 done, 60.6 min
+11-08 03:58:36 replica ep 21/60 step 2000/2500 loss 1.1940 110 rows/s
+11-08 03:59:15 replica: epoch 21/60 done, 63.5 min
+11-08 04:01:28 replica ep 22/60 step 2000/2500 loss 1.1915 111 rows/s
+11-08 04:02:09 replica: epoch 22/60 done, 66.4 min
+11-08 04:04:21 replica ep 23/60 step 2000/2500 loss 1.1876 111 rows/s
+11-08 04:04:59 replica: epoch 23/60 done, 69.2 min
+11-08 04:07:09 replica ep 24/60 step 2000/2500 loss 1.1842 111 rows/s
+11-08 04:07:47 replica: epoch 24/60 done, 72.0 min
+11-08 04:09:56 replica ep 25/60 step 2000/2500 loss 1.1811 111 rows/s
+11-08 04:10:33 replica: epoch 25/60 done, 74.8 min
+11-08 04:12:44 replica ep 26/60 step 2000/2500 loss 1.1783 112 rows/s
+11-08 04:13:21 replica: epoch 26/60 done, 77.6 min
+11-08 04:15:31 replica ep 27/60 step 2000/2500 loss 1.1744 112 rows/s
+11-08 04:16:09 replica: epoch 27/60 done, 80.4 min
+11-08 04:18:21 replica ep 28/60 step 2000/2500 loss 1.1717 112 rows/s
+11-08 04:18:58 replica: epoch 28/60 done, 83.2 min
+11-08 04:21:07 replica ep 29/60 step 2000/2500 loss 1.1686 112 rows/s
+11-08 04:21:46 replica: epoch 29/60 done, 86.0 min
+11-08 04:24:02 replica ep 30/60 step 2000/2500 loss 1.1653 113 rows/s
+11-08 04:24:41 replica: epoch 30/60 done, 88.9 min
+11-08 04:27:02 replica ep 31/60 step 2000/2500 loss 1.1627 112 rows/s
+11-08 04:27:45 replica: epoch 31/60 done, 92.0 min
+11-08 04:30:08 replica ep 32/60 step 2000/2500 loss 1.1593 112 rows/s
+11-08 04:30:52 replica: epoch 32/60 done, 95.1 min
+11-08 04:33:09 replica ep 33/60 step 2000/2500 loss 1.1565 112 rows/s
+11-08 04:33:51 replica: epoch 33/60 done, 98.1 min
+11-08 04:36:05 replica ep 34/60 step 2000/2500 loss 1.1532 112 rows/s
+11-08 04:36:44 replica: epoch 34/60 done, 101.0 min
+11-08 04:38:55 replica ep 35/60 step 2000/2500 loss 1.1511 112 rows/s
+11-08 04:39:34 replica: epoch 35/60 done, 103.8 min
+11-08 04:41:44 replica ep 36/60 step 2000/2500 loss 1.1490 113 rows/s
+11-08 04:42:22 replica: epoch 36/60 done, 106.6 min
+11-08 04:44:30 replica ep 37/60 step 2000/2500 loss 1.1455 113 rows/s
+11-08 04:45:08 replica: epoch 37/60 done, 109.4 min
+11-08 04:47:19 replica ep 38/60 step 2000/2500 loss 1.1435 113 rows/s
+11-08 04:47:56 replica: epoch 38/60 done, 112.2 min
+11-08 04:50:03 replica ep 39/60 step 2000/2500 loss 1.1406 113 rows/s
+11-08 04:50:40 replica: epoch 39/60 done, 114.9 min
+11-08 04:52:47 replica ep 40/60 step 2000/2500 loss 1.1379 113 rows/s
+11-08 04:53:25 replica: epoch 40/60 done, 117.7 min
+11-08 04:55:31 replica ep 41/60 step 2000/2500 loss 1.1361 114 rows/s
+11-08 04:56:08 replica: epoch 41/60 done, 120.4 min
+11-08 04:58:12 replica ep 42/60 step 2000/2500 loss 1.1339 114 rows/s
+11-08 04:58:47 replica: epoch 42/60 done, 123.0 min
+11-08 05:00:55 replica ep 43/60 step 2000/2500 loss 1.1323 114 rows/s
+11-08 05:01:32 replica: epoch 43/60 done, 125.8 min
+11-08 05:03:43 replica ep 44/60 step 2000/2500 loss 1.1296 114 rows/s
+11-08 05:04:23 replica: epoch 44/60 done, 128.6 min
+11-08 05:06:33 replica ep 45/60 step 2000/2500 loss 1.1276 114 rows/s
+11-08 05:07:10 replica: epoch 45/60 done, 131.4 min
+11-08 05:09:17 replica ep 46/60 step 2000/2500 loss 1.1258 114 rows/s
+11-08 05:09:56 replica: epoch 46/60 done, 134.2 min
+11-08 05:12:04 replica ep 47/60 step 2000/2500 loss 1.1245 114 rows/s
+11-08 05:12:43 replica: epoch 47/60 done, 137.0 min
+11-08 05:14:51 replica ep 48/60 step 2000/2500 loss 1.1223 115 rows/s
+11-08 05:15:30 replica: epoch 48/60 done, 139.7 min
+11-08 05:17:38 replica ep 49/60 step 2000/2500 loss 1.1207 115 rows/s
+11-08 05:18:17 replica: epoch 49/60 done, 142.5 min
+11-08 05:20:23 replica ep 50/60 step 2000/2500 loss 1.1194 115 rows/s
+11-08 05:21:00 replica: epoch 50/60 done, 145.2 min
+11-08 05:23:08 replica ep 51/60 step 2000/2500 loss 1.1178 115 rows/s
+11-08 05:23:46 replica: epoch 51/60 done, 148.0 min
+11-08 05:25:54 replica ep 52/60 step 2000/2500 loss 1.1163 115 rows/s
+11-08 05:26:32 replica: epoch 52/60 done, 150.8 min
+11-08 05:28:40 replica ep 53/60 step 2000/2500 loss 1.1160 115 rows/s
+11-08 05:29:18 replica: epoch 53/60 done, 153.5 min
+11-08 05:31:27 replica ep 54/60 step 2000/2500 loss 1.1138 115 rows/s
+11-08 05:32:06 replica: epoch 54/60 done, 156.3 min
+11-08 05:34:20 replica ep 55/60 step 2000/2500 loss 1.1123 115 rows/s
+11-08 05:34:56 replica: epoch 55/60 done, 159.2 min
+11-08 05:37:10 replica ep 56/60 step 2000/2500 loss 1.1115 115 rows/s
+11-08 05:37:50 replica: epoch 56/60 done, 162.1 min
+11-08 05:40:03 replica ep 57/60 step 2000/2500 loss 1.1112 115 rows/s
+11-08 05:40:42 replica: epoch 57/60 done, 164.9 min
+11-08 05:42:56 replica ep 58/60 step 2000/2500 loss 1.1103 115 rows/s
+11-08 05:43:36 replica: epoch 58/60 done, 167.8 min
+11-08 05:45:51 replica ep 59/60 step 2000/2500 loss 1.1098 115 rows/s
+11-08 05:46:31 replica: epoch 59/60 done, 170.8 min
+11-08 05:48:46 replica ep 60/60 step 2000/2500 loss 1.1093 115 rows/s
+11-08 05:49:25 replica: epoch 60/60 done, 173.7 min
+11-08 05:49:28 replica ready, 173.8 min
+11-08 05:51:44 fold_2 ep 1/8 step 2000/34998 loss 1.0761 242 rows/s
+11-08 05:53:57 fold_2 ep 1/8 step 4000/34998 loss 1.0657 241 rows/s
+11-08 05:56:09 fold_2 ep 1/8 step 6000/34998 loss 1.0627 242 rows/s
+11-08 05:58:20 fold_2 ep 1/8 step 8000/34998 loss 1.0609 243 rows/s
+11-08 06:00:35 fold_2 ep 1/8 step 10000/34998 loss 1.0593 241 rows/s
+11-08 06:02:48 fold_2 ep 1/8 step 12000/34998 loss 1.0591 241 rows/s
+11-08 06:04:59 fold_2 ep 1/8 step 14000/34998 loss 1.0574 242 rows/s
+11-08 06:07:12 fold_2 ep 1/8 step 16000/34998 loss 1.0562 242 rows/s
+11-08 06:09:24 fold_2 ep 1/8 step 18000/34998 loss 1.0555 242 rows/s
+11-08 06:11:34 fold_2 ep 1/8 step 20000/34998 loss 1.0556 242 rows/s
+11-08 06:13:47 fold_2 ep 1/8 step 22000/34998 loss 1.0539 242 rows/s
+11-08 06:15:58 fold_2 ep 1/8 step 24000/34998 loss 1.0542 242 rows/s
+11-08 06:18:10 fold_2 ep 1/8 step 26000/34998 loss 1.0535 242 rows/s
+11-08 06:20:21 fold_2 ep 1/8 step 28000/34998 loss 1.0533 242 rows/s
+11-08 06:22:31 fold_2 ep 1/8 step 30000/34998 loss 1.0517 242 rows/s
+11-08 06:24:43 fold_2 ep 1/8 step 32000/34998 loss 1.0519 243 rows/s
+11-08 06:26:53 fold_2 ep 1/8 step 34000/34998 loss 1.0519 243 rows/s
+11-08 06:28:05 fold_2: epoch 1/8 done, 38.6 min
+11-08 06:30:16 fold_2 ep 2/8 step 2000/34998 loss 1.0503 242 rows/s
+11-08 06:32:26 fold_2 ep 2/8 step 4000/34998 loss 1.0499 242 rows/s
+11-08 06:34:35 fold_2 ep 2/8 step 6000/34998 loss 1.0494 243 rows/s
+11-08 06:36:45 fold_2 ep 2/8 step 8000/34998 loss 1.0506 243 rows/s
+11-08 06:38:56 fold_2 ep 2/8 step 10000/34998 loss 1.0510 243 rows/s
+11-08 06:41:06 fold_2 ep 2/8 step 12000/34998 loss 1.0485 243 rows/s
+11-08 06:43:16 fold_2 ep 2/8 step 14000/34998 loss 1.0493 243 rows/s
+11-08 06:45:24 fold_2 ep 2/8 step 16000/34998 loss 1.0491 243 rows/s
+11-08 06:47:34 fold_2 ep 2/8 step 18000/34998 loss 1.0472 244 rows/s
+11-08 06:49:48 fold_2 ep 2/8 step 20000/34998 loss 1.0491 243 rows/s
+11-08 06:52:09 fold_2 ep 2/8 step 22000/34998 loss 1.0477 243 rows/s
+11-08 06:54:35 fold_2 ep 2/8 step 24000/34998 loss 1.0479 242 rows/s
+11-08 06:57:04 fold_2 ep 2/8 step 26000/34998 loss 1.0478 241 rows/s
+11-08 06:59:38 fold_2 ep 2/8 step 28000/34998 loss 1.0471 240 rows/s
+11-08 07:02:06 fold_2 ep 2/8 step 30000/34998 loss 1.0479 239 rows/s
+11-08 07:04:31 fold_2 ep 2/8 step 32000/34998 loss 1.0474 238 rows/s
+11-08 07:06:42 fold_2 ep 2/8 step 34000/34998 loss 1.0471 238 rows/s
+11-08 07:07:53 fold_2: epoch 2/8 done, 78.3 min
+11-08 07:10:05 fold_2 ep 3/8 step 2000/34998 loss 1.0458 238 rows/s
+11-08 07:12:19 fold_2 ep 3/8 step 4000/34998 loss 1.0457 238 rows/s
+11-08 07:14:33 fold_2 ep 3/8 step 6000/34998 loss 1.0469 238 rows/s
+11-08 07:16:44 fold_2 ep 3/8 step 8000/34998 loss 1.0456 239 rows/s
+11-08 07:18:59 fold_2 ep 3/8 step 10000/34998 loss 1.0457 238 rows/s
+11-08 07:21:10 fold_2 ep 3/8 step 12000/34998 loss 1.0473 239 rows/s
+11-08 07:23:18 fold_2 ep 3/8 step 14000/34998 loss 1.0464 239 rows/s
+11-08 07:25:27 fold_2 ep 3/8 step 16000/34998 loss 1.0452 239 rows/s
+11-08 07:27:40 fold_2 ep 3/8 step 18000/34998 loss 1.0461 239 rows/s
+11-08 07:29:54 fold_2 ep 3/8 step 20000/34998 loss 1.0448 239 rows/s
+11-08 07:32:08 fold_2 ep 3/8 step 22000/34998 loss 1.0452 239 rows/s
+11-08 07:34:17 fold_2 ep 3/8 step 24000/34998 loss 1.0459 239 rows/s
+11-08 07:36:27 fold_2 ep 3/8 step 26000/34998 loss 1.0459 239 rows/s
+11-08 07:38:33 fold_2 ep 3/8 step 28000/34998 loss 1.0441 240 rows/s
+11-08 07:40:41 fold_2 ep 3/8 step 30000/34998 loss 1.0459 240 rows/s
+11-08 07:42:48 fold_2 ep 3/8 step 32000/34998 loss 1.0445 240 rows/s
+11-08 07:44:57 fold_2 ep 3/8 step 34000/34998 loss 1.0448 240 rows/s
+11-08 07:46:04 fold_2: epoch 3/8 done, 116.5 min
+11-08 07:48:10 fold_2 ep 4/8 step 2000/34998 loss 1.0448 241 rows/s
+11-08 07:50:17 fold_2 ep 4/8 step 4000/34998 loss 1.0443 241 rows/s
+11-08 07:52:32 fold_2 ep 4/8 step 6000/34998 loss 1.0441 241 rows/s
+11-08 07:54:39 fold_2 ep 4/8 step 8000/34998 loss 1.0435 241 rows/s
+11-08 07:56:45 fold_2 ep 4/8 step 10000/34998 loss 1.0430 241 rows/s
+11-08 07:58:54 fold_2 ep 4/8 step 12000/34998 loss 1.0436 241 rows/s
+11-08 08:01:05 fold_2 ep 4/8 step 14000/34998 loss 1.0441 241 rows/s
+11-08 08:03:22 fold_2 ep 4/8 step 16000/34998 loss 1.0433 241 rows/s
+11-08 08:05:40 fold_2 ep 4/8 step 18000/34998 loss 1.0435 241 rows/s
+11-08 08:07:58 fold_2 ep 4/8 step 20000/34998 loss 1.0434 241 rows/s
+11-08 08:10:12 fold_2 ep 4/8 step 22000/34998 loss 1.0426 241 rows/s
+11-08 08:12:24 fold_2 ep 4/8 step 24000/34998 loss 1.0428 241 rows/s
+11-08 08:14:37 fold_2 ep 4/8 step 26000/34998 loss 1.0437 241 rows/s
+11-08 08:16:51 fold_2 ep 4/8 step 28000/34998 loss 1.0435 241 rows/s
+11-08 08:19:01 fold_2 ep 4/8 step 30000/34998 loss 1.0433 241 rows/s
+11-08 08:21:11 fold_2 ep 4/8 step 32000/34998 loss 1.0438 241 rows/s
+11-08 08:23:22 fold_2 ep 4/8 step 34000/34998 loss 1.0432 241 rows/s
+11-08 08:24:31 fold_2: epoch 4/8 done, 155.0 min
+11-08 08:26:42 fold_2 ep 5/8 step 2000/34998 loss 1.0415 241 rows/s
+11-08 08:28:52 fold_2 ep 5/8 step 4000/34998 loss 1.0422 241 rows/s
+11-08 08:31:03 fold_2 ep 5/8 step 6000/34998 loss 1.0426 241 rows/s
+11-08 08:33:15 fold_2 ep 5/8 step 8000/34998 loss 1.0424 241 rows/s
+11-08 08:35:25 fold_2 ep 5/8 step 10000/34998 loss 1.0424 241 rows/s
+11-08 08:37:34 fold_2 ep 5/8 step 12000/34998 loss 1.0422 241 rows/s
+11-08 08:39:45 fold_2 ep 5/8 step 14000/34998 loss 1.0411 241 rows/s
+11-08 08:41:55 fold_2 ep 5/8 step 16000/34998 loss 1.0414 241 rows/s
+11-08 08:44:06 fold_2 ep 5/8 step 18000/34998 loss 1.0421 241 rows/s
+11-08 08:46:16 fold_2 ep 5/8 step 20000/34998 loss 1.0427 241 rows/s
+11-08 08:48:24 fold_2 ep 5/8 step 22000/34998 loss 1.0420 242 rows/s
+11-08 08:50:35 fold_2 ep 5/8 step 24000/34998 loss 1.0423 242 rows/s
+11-08 08:52:45 fold_2 ep 5/8 step 26000/34998 loss 1.0411 242 rows/s
+11-08 08:54:54 fold_2 ep 5/8 step 28000/34998 loss 1.0411 242 rows/s
+11-08 08:57:03 fold_2 ep 5/8 step 30000/34998 loss 1.0420 242 rows/s
+11-08 08:59:13 fold_2 ep 5/8 step 32000/34998 loss 1.0430 242 rows/s
+11-08 09:01:20 fold_2 ep 5/8 step 34000/34998 loss 1.0413 242 rows/s
+11-08 09:02:31 fold_2: epoch 5/8 done, 193.0 min
+11-08 09:04:46 fold_2 ep 6/8 step 2000/34998 loss 1.0401 242 rows/s
+11-08 09:06:57 fold_2 ep 6/8 step 4000/34998 loss 1.0405 242 rows/s
+11-08 09:09:06 fold_2 ep 6/8 step 6000/34998 loss 1.0409 242 rows/s
+11-08 09:11:16 fold_2 ep 6/8 step 8000/34998 loss 1.0404 242 rows/s
+11-08 09:13:26 fold_2 ep 6/8 step 10000/34998 loss 1.0391 242 rows/s
+11-08 09:15:33 fold_2 ep 6/8 step 12000/34998 loss 1.0408 242 rows/s
+11-08 09:17:44 fold_2 ep 6/8 step 14000/34998 loss 1.0407 242 rows/s
+11-08 09:19:57 fold_2 ep 6/8 step 16000/34998 loss 1.0408 242 rows/s
+11-08 09:22:08 fold_2 ep 6/8 step 18000/34998 loss 1.0410 242 rows/s
+11-08 09:24:22 fold_2 ep 6/8 step 20000/34998 loss 1.0404 242 rows/s
+11-08 09:26:37 fold_2 ep 6/8 step 22000/34998 loss 1.0405 242 rows/s
+11-08 09:28:51 fold_2 ep 6/8 step 24000/34998 loss 1.0406 242 rows/s
+11-08 09:31:07 fold_2 ep 6/8 step 26000/34998 loss 1.0418 242 rows/s
+11-08 09:33:25 fold_2 ep 6/8 step 28000/34998 loss 1.0410 242 rows/s
+11-08 09:35:42 fold_2 ep 6/8 step 30000/34998 loss 1.0411 242 rows/s
+11-08 09:37:58 fold_2 ep 6/8 step 32000/34998 loss 1.0402 242 rows/s
+11-08 09:40:11 fold_2 ep 6/8 step 34000/34998 loss 1.0394 242 rows/s
+11-08 09:41:21 fold_2: epoch 6/8 done, 231.8 min
+11-08 09:43:29 fold_2 ep 7/8 step 2000/34998 loss 1.0389 242 rows/s
+11-08 09:45:36 fold_2 ep 7/8 step 4000/34998 loss 1.0381 242 rows/s
+11-08 09:47:46 fold_2 ep 7/8 step 6000/34998 loss 1.0396 242 rows/s
+11-08 09:49:59 fold_2 ep 7/8 step 8000/34998 loss 1.0405 242 rows/s
+11-08 09:52:10 fold_2 ep 7/8 step 10000/34998 loss 1.0392 242 rows/s
+11-08 09:54:20 fold_2 ep 7/8 step 12000/34998 loss 1.0392 242 rows/s
+11-08 09:56:28 fold_2 ep 7/8 step 14000/34998 loss 1.0394 242 rows/s
+11-08 09:58:38 fold_2 ep 7/8 step 16000/34998 loss 1.0396 242 rows/s
+11-08 10:00:46 fold_2 ep 7/8 step 18000/34998 loss 1.0410 242 rows/s
+11-08 10:03:01 fold_2 ep 7/8 step 20000/34998 loss 1.0395 242 rows/s
+11-08 10:05:11 fold_2 ep 7/8 step 22000/34998 loss 1.0399 242 rows/s
+11-08 10:07:23 fold_2 ep 7/8 step 24000/34998 loss 1.0394 242 rows/s
+11-08 10:09:33 fold_2 ep 7/8 step 26000/34998 loss 1.0390 242 rows/s
+11-08 10:11:42 fold_2 ep 7/8 step 28000/34998 loss 1.0390 242 rows/s
+11-08 10:13:50 fold_2 ep 7/8 step 30000/34998 loss 1.0383 242 rows/s
+11-08 10:15:57 fold_2 ep 7/8 step 32000/34998 loss 1.0383 242 rows/s
+11-08 10:18:04 fold_2 ep 7/8 step 34000/34998 loss 1.0404 242 rows/s
+11-08 10:19:13 fold_2: epoch 7/8 done, 269.7 min
+11-08 10:21:21 fold_2 ep 8/8 step 2000/34998 loss 1.0390 242 rows/s
+11-08 10:23:31 fold_2 ep 8/8 step 4000/34998 loss 1.0392 242 rows/s
+11-08 10:25:41 fold_2 ep 8/8 step 6000/34998 loss 1.0377 242 rows/s
+11-08 10:27:54 fold_2 ep 8/8 step 8000/34998 loss 1.0386 242 rows/s
+11-08 10:30:05 fold_2 ep 8/8 step 10000/34998 loss 1.0382 242 rows/s
+11-08 10:32:16 fold_2 ep 8/8 step 12000/34998 loss 1.0374 242 rows/s
+11-08 10:34:26 fold_2 ep 8/8 step 14000/34998 loss 1.0380 242 rows/s
+11-08 10:36:36 fold_2 ep 8/8 step 16000/34998 loss 1.0390 242 rows/s
+11-08 10:38:46 fold_2 ep 8/8 step 18000/34998 loss 1.0380 242 rows/s
+11-08 10:40:58 fold_2 ep 8/8 step 20000/34998 loss 1.0378 242 rows/s
+11-08 10:43:05 fold_2 ep 8/8 step 22000/34998 loss 1.0384 243 rows/s
+11-08 10:45:16 fold_2 ep 8/8 step 24000/34998 loss 1.0385 243 rows/s
+11-08 10:47:25 fold_2 ep 8/8 step 26000/34998 loss 1.0380 243 rows/s
+11-08 10:49:34 fold_2 ep 8/8 step 28000/34998 loss 1.0394 243 rows/s
+11-08 10:51:44 fold_2 ep 8/8 step 30000/34998 loss 1.0383 243 rows/s
+11-08 10:53:53 fold_2 ep 8/8 step 32000/34998 loss 1.0377 243 rows/s
+11-08 10:56:03 fold_2 ep 8/8 step 34000/34998 loss 1.0380 243 rows/s
+11-08 10:57:12 fold_2: epoch 8/8 done, 307.7 min
+11-08 11:04:27 fold 2: AUC 0.954713 (one order 0.953872)
+11-08 11:10:29 fold 2: train 307.7 min, score 13.3 min
+11-08 11:12:45 fold_3 ep 1/8 step 2000/34998 loss 1.0759 245 rows/s
+11-08 11:14:54 fold_3 ep 1/8 step 4000/34998 loss 1.0661 246 rows/s
+11-08 11:17:01 fold_3 ep 1/8 step 6000/34998 loss 1.0629 248 rows/s
+11-08 11:19:07 fold_3 ep 1/8 step 8000/34998 loss 1.0609 249 rows/s
+11-08 11:21:17 fold_3 ep 1/8 step 10000/34998 loss 1.0591 249 rows/s
+11-08 11:23:23 fold_3 ep 1/8 step 12000/34998 loss 1.0583 250 rows/s
+11-08 11:25:30 fold_3 ep 1/8 step 14000/34998 loss 1.0560 250 rows/s
+11-08 11:27:36 fold_3 ep 1/8 step 16000/34998 loss 1.0564 250 rows/s
+11-08 11:29:44 fold_3 ep 1/8 step 18000/34998 loss 1.0563 250 rows/s
+11-08 11:31:52 fold_3 ep 1/8 step 20000/34998 loss 1.0549 250 rows/s
+11-08 11:33:58 fold_3 ep 1/8 step 22000/34998 loss 1.0548 251 rows/s
+11-08 11:36:06 fold_3 ep 1/8 step 24000/34998 loss 1.0548 251 rows/s
+11-08 11:38:13 fold_3 ep 1/8 step 26000/34998 loss 1.0524 251 rows/s
+11-08 11:40:20 fold_3 ep 1/8 step 28000/34998 loss 1.0533 251 rows/s
+11-08 11:42:24 fold_3 ep 1/8 step 30000/34998 loss 1.0520 251 rows/s
+11-08 11:44:30 fold_3 ep 1/8 step 32000/34998 loss 1.0525 251 rows/s
+11-08 11:46:36 fold_3 ep 1/8 step 34000/34998 loss 1.0528 252 rows/s
+11-08 11:47:45 fold_3: epoch 1/8 done, 37.2 min
+11-08 11:49:52 fold_3 ep 2/8 step 2000/34998 loss 1.0495 251 rows/s
+11-08 11:52:04 fold_3 ep 2/8 step 4000/34998 loss 1.0496 251 rows/s
+11-08 11:54:13 fold_3 ep 2/8 step 6000/34998 loss 1.0501 250 rows/s
+11-08 11:56:26 fold_3 ep 2/8 step 8000/34998 loss 1.0497 250 rows/s
+11-08 11:58:36 fold_3 ep 2/8 step 10000/34998 loss 1.0484 250 rows/s
+11-08 12:00:43 fold_3 ep 2/8 step 12000/34998 loss 1.0489 250 rows/s
+11-08 12:02:51 fold_3 ep 2/8 step 14000/34998 loss 1.0486 250 rows/s
+11-08 12:05:00 fold_3 ep 2/8 step 16000/34998 loss 1.0494 250 rows/s
+11-08 12:07:08 fold_3 ep 2/8 step 18000/34998 loss 1.0486 250 rows/s
+11-08 12:09:16 fold_3 ep 2/8 step 20000/34998 loss 1.0487 250 rows/s
+11-08 12:11:22 fold_3 ep 2/8 step 22000/34998 loss 1.0477 250 rows/s
+11-08 12:13:30 fold_3 ep 2/8 step 24000/34998 loss 1.0480 250 rows/s
+11-08 12:15:38 fold_3 ep 2/8 step 26000/34998 loss 1.0486 250 rows/s
+11-08 12:17:42 fold_3 ep 2/8 step 28000/34998 loss 1.0476 250 rows/s
+11-08 12:19:50 fold_3 ep 2/8 step 30000/34998 loss 1.0486 250 rows/s
+11-08 12:21:58 fold_3 ep 2/8 step 32000/34998 loss 1.0486 250 rows/s
+11-08 12:24:06 fold_3 ep 2/8 step 34000/34998 loss 1.0474 250 rows/s
+11-08 12:25:13 fold_3: epoch 2/8 done, 74.7 min
+11-08 12:27:21 fold_3 ep 3/8 step 2000/34998 loss 1.0457 250 rows/s
+11-08 12:29:27 fold_3 ep 3/8 step 4000/34998 loss 1.0457 250 rows/s
+11-08 12:31:34 fold_3 ep 3/8 step 6000/34998 loss 1.0458 250 rows/s
+11-08 12:33:43 fold_3 ep 3/8 step 8000/34998 loss 1.0470 250 rows/s
+11-08 12:35:54 fold_3 ep 3/8 step 10000/34998 loss 1.0464 250 rows/s
+11-08 12:38:03 fold_3 ep 3/8 step 12000/34998 loss 1.0459 250 rows/s
+11-08 12:40:13 fold_3 ep 3/8 step 14000/34998 loss 1.0459 250 rows/s
+11-08 12:42:19 fold_3 ep 3/8 step 16000/34998 loss 1.0457 250 rows/s
+11-08 12:44:24 fold_3 ep 3/8 step 18000/34998 loss 1.0460 250 rows/s
+11-08 12:46:29 fold_3 ep 3/8 step 20000/34998 loss 1.0457 250 rows/s
+11-08 12:48:39 fold_3 ep 3/8 step 22000/34998 loss 1.0450 250 rows/s
+11-08 12:50:56 fold_3 ep 3/8 step 24000/34998 loss 1.0436 250 rows/s
+11-08 12:53:15 fold_3 ep 3/8 step 26000/34998 loss 1.0459 249 rows/s
+11-08 12:55:36 fold_3 ep 3/8 step 28000/34998 loss 1.0450 249 rows/s
+11-08 12:57:59 fold_3 ep 3/8 step 30000/34998 loss 1.0457 248 rows/s
+11-08 13:00:18 fold_3 ep 3/8 step 32000/34998 loss 1.0461 248 rows/s
+11-08 13:02:38 fold_3 ep 3/8 step 34000/34998 loss 1.0449 247 rows/s
+11-08 13:03:55 fold_3: epoch 3/8 done, 113.4 min
+11-08 13:06:13 fold_3 ep 4/8 step 2000/34998 loss 1.0428 247 rows/s
+11-08 13:08:33 fold_3 ep 4/8 step 4000/34998 loss 1.0446 246 rows/s
+11-08 13:10:53 fold_3 ep 4/8 step 6000/34998 loss 1.0438 246 rows/s
+11-08 13:13:10 fold_3 ep 4/8 step 8000/34998 loss 1.0440 246 rows/s
+11-08 13:15:40 fold_3 ep 4/8 step 10000/34998 loss 1.0435 245 rows/s
+11-08 13:18:16 fold_3 ep 4/8 step 12000/34998 loss 1.0436 244 rows/s
+11-08 13:20:44 fold_3 ep 4/8 step 14000/34998 loss 1.0452 244 rows/s
+11-08 13:23:05 fold_3 ep 4/8 step 16000/34998 loss 1.0440 243 rows/s
+11-08 13:25:28 fold_3 ep 4/8 step 18000/34998 loss 1.0439 243 rows/s
+11-08 13:27:55 fold_3 ep 4/8 step 20000/34998 loss 1.0433 243 rows/s
+11-08 13:30:12 fold_3 ep 4/8 step 22000/34998 loss 1.0441 243 rows/s
+11-08 13:32:34 fold_3 ep 4/8 step 24000/34998 loss 1.0438 242 rows/s
+11-08 13:34:55 fold_3 ep 4/8 step 26000/34998 loss 1.0433 242 rows/s
+11-08 13:37:17 fold_3 ep 4/8 step 28000/34998 loss 1.0436 242 rows/s
+11-08 13:39:35 fold_3 ep 4/8 step 30000/34998 loss 1.0419 242 rows/s
+11-08 13:41:53 fold_3 ep 4/8 step 32000/34998 loss 1.0426 241 rows/s
+11-08 13:44:15 fold_3 ep 4/8 step 34000/34998 loss 1.0432 241 rows/s
+11-08 13:45:28 fold_3: epoch 4/8 done, 154.9 min
+11-08 13:47:49 fold_3 ep 5/8 step 2000/34998 loss 1.0418 241 rows/s
+11-08 13:50:06 fold_3 ep 5/8 step 4000/34998 loss 1.0425 241 rows/s
+11-08 13:52:24 fold_3 ep 5/8 step 6000/34998 loss 1.0420 241 rows/s
+11-08 13:54:45 fold_3 ep 5/8 step 8000/34998 loss 1.0428 240 rows/s
+11-08 13:57:14 fold_3 ep 5/8 step 10000/34998 loss 1.0419 240 rows/s
+11-08 13:59:41 fold_3 ep 5/8 step 12000/34998 loss 1.0419 240 rows/s
+11-08 14:01:58 fold_3 ep 5/8 step 14000/34998 loss 1.0426 240 rows/s
+11-08 14:04:20 fold_3 ep 5/8 step 16000/34998 loss 1.0419 239 rows/s
+11-08 14:06:40 fold_3 ep 5/8 step 18000/34998 loss 1.0407 239 rows/s
+11-08 14:08:59 fold_3 ep 5/8 step 20000/34998 loss 1.0431 239 rows/s
+11-08 14:11:22 fold_3 ep 5/8 step 22000/34998 loss 1.0419 239 rows/s
+11-08 14:13:41 fold_3 ep 5/8 step 24000/34998 loss 1.0410 239 rows/s
+11-08 14:16:02 fold_3 ep 5/8 step 26000/34998 loss 1.0421 239 rows/s
+11-08 14:18:31 fold_3 ep 5/8 step 28000/34998 loss 1.0416 238 rows/s
+11-08 14:21:00 fold_3 ep 5/8 step 30000/34998 loss 1.0418 238 rows/s
+11-08 14:23:28 fold_3 ep 5/8 step 32000/34998 loss 1.0422 238 rows/s
+11-08 14:25:58 fold_3 ep 5/8 step 34000/34998 loss 1.0418 237 rows/s
+11-08 14:27:16 fold_3: epoch 5/8 done, 196.7 min
+11-08 14:29:41 fold_3 ep 6/8 step 2000/34998 loss 1.0406 237 rows/s
+11-08 14:32:07 fold_3 ep 6/8 step 4000/34998 loss 1.0410 237 rows/s
+11-08 14:34:29 fold_3 ep 6/8 step 6000/34998 loss 1.0400 237 rows/s
+11-08 14:36:53 fold_3 ep 6/8 step 8000/34998 loss 1.0396 237 rows/s
+11-08 14:39:18 fold_3 ep 6/8 step 10000/34998 loss 1.0400 236 rows/s
+11-08 14:41:44 fold_3 ep 6/8 step 12000/34998 loss 1.0407 236 rows/s
+11-08 14:44:08 fold_3 ep 6/8 step 14000/34998 loss 1.0413 236 rows/s
+11-08 14:46:32 fold_3 ep 6/8 step 16000/34998 loss 1.0401 236 rows/s
+11-08 14:48:57 fold_3 ep 6/8 step 18000/34998 loss 1.0403 236 rows/s
+11-08 14:51:21 fold_3 ep 6/8 step 20000/34998 loss 1.0407 236 rows/s
+11-08 14:53:45 fold_3 ep 6/8 step 22000/34998 loss 1.0402 235 rows/s
+11-08 14:56:06 fold_3 ep 6/8 step 24000/34998 loss 1.0397 235 rows/s
+11-08 14:58:36 fold_3 ep 6/8 step 26000/34998 loss 1.0415 235 rows/s
+11-08 15:01:05 fold_3 ep 6/8 step 28000/34998 loss 1.0414 235 rows/s
+11-08 15:03:31 fold_3 ep 6/8 step 30000/34998 loss 1.0403 235 rows/s
+11-08 15:06:09 fold_3 ep 6/8 step 32000/34998 loss 1.0400 234 rows/s
+11-08 15:08:44 fold_3 ep 6/8 step 34000/34998 loss 1.0412 234 rows/s
+11-08 15:10:05 fold_3: epoch 6/8 done, 239.5 min
+11-08 15:12:32 fold_3 ep 7/8 step 2000/34998 loss 1.0391 234 rows/s
+11-08 15:14:59 fold_3 ep 7/8 step 4000/34998 loss 1.0398 233 rows/s
+11-08 15:17:28 fold_3 ep 7/8 step 6000/34998 loss 1.0395 233 rows/s
+11-08 15:19:50 fold_3 ep 7/8 step 8000/34998 loss 1.0398 233 rows/s
+11-08 15:22:14 fold_3 ep 7/8 step 10000/34998 loss 1.0391 233 rows/s
+11-08 15:24:40 fold_3 ep 7/8 step 12000/34998 loss 1.0404 233 rows/s
+11-08 15:27:05 fold_3 ep 7/8 step 14000/34998 loss 1.0390 233 rows/s
+11-08 15:29:29 fold_3 ep 7/8 step 16000/34998 loss 1.0391 233 rows/s
+11-08 15:31:55 fold_3 ep 7/8 step 18000/34998 loss 1.0389 233 rows/s
+11-08 15:34:21 fold_3 ep 7/8 step 20000/34998 loss 1.0399 233 rows/s
+11-08 15:36:50 fold_3 ep 7/8 step 22000/34998 loss 1.0387 232 rows/s
+11-08 15:39:20 fold_3 ep 7/8 step 24000/34998 loss 1.0392 232 rows/s
+11-08 15:41:51 fold_3 ep 7/8 step 26000/34998 loss 1.0393 232 rows/s
+11-08 15:44:22 fold_3 ep 7/8 step 28000/34998 loss 1.0396 232 rows/s
+11-08 15:46:56 fold_3 ep 7/8 step 30000/34998 loss 1.0401 232 rows/s
+11-08 15:49:32 fold_3 ep 7/8 step 32000/34998 loss 1.0386 231 rows/s
+11-08 15:52:07 fold_3 ep 7/8 step 34000/34998 loss 1.0396 231 rows/s
+11-08 15:53:30 fold_3: epoch 7/8 done, 282.9 min
+11-08 15:55:58 fold_3 ep 8/8 step 2000/34998 loss 1.0383 231 rows/s
+11-08 15:58:47 fold_3 ep 8/8 step 4000/34998 loss 1.0376 230 rows/s
+11-08 16:01:18 fold_3 ep 8/8 step 6000/34998 loss 1.0383 230 rows/s
+11-08 16:03:53 fold_3 ep 8/8 step 8000/34998 loss 1.0386 230 rows/s
+11-08 16:06:28 fold_3 ep 8/8 step 10000/34998 loss 1.0387 230 rows/s
+11-08 16:08:59 fold_3 ep 8/8 step 12000/34998 loss 1.0379 230 rows/s
+11-08 16:11:32 fold_3 ep 8/8 step 14000/34998 loss 1.0387 229 rows/s
+11-08 16:14:02 fold_3 ep 8/8 step 16000/34998 loss 1.0383 229 rows/s
+11-08 16:16:33 fold_3 ep 8/8 step 18000/34998 loss 1.0374 229 rows/s
+11-08 16:19:05 fold_3 ep 8/8 step 20000/34998 loss 1.0377 229 rows/s
+11-08 16:21:34 fold_3 ep 8/8 step 22000/34998 loss 1.0378 229 rows/s
+11-08 16:24:05 fold_3 ep 8/8 step 24000/34998 loss 1.0383 229 rows/s
+11-08 16:26:36 fold_3 ep 8/8 step 26000/34998 loss 1.0392 229 rows/s
+11-08 16:29:07 fold_3 ep 8/8 step 28000/34998 loss 1.0390 229 rows/s
+11-08 16:31:39 fold_3 ep 8/8 step 30000/34998 loss 1.0381 228 rows/s
+11-08 16:34:05 fold_3 ep 8/8 step 32000/34998 loss 1.0383 228 rows/s
+11-08 16:36:31 fold_3 ep 8/8 step 34000/34998 loss 1.0384 228 rows/s
+11-08 16:37:49 fold_3: epoch 8/8 done, 327.2 min
+11-08 16:46:29 fold 3: AUC 0.948126 (one order 0.947605)
+11-08 16:54:13 fold 3: train 327.3 min, score 16.4 min
+11-08 16:56:52 fold_4 ep 1/8 step 2000/34998 loss 1.0761 219 rows/s
+11-08 16:59:19 fold_4 ep 1/8 step 4000/34998 loss 1.0661 218 rows/s
+11-08 17:01:49 fold_4 ep 1/8 step 6000/34998 loss 1.0622 217 rows/s
+11-08 17:04:20 fold_4 ep 1/8 step 8000/34998 loss 1.0614 215 rows/s
+11-08 17:06:51 fold_4 ep 1/8 step 10000/34998 loss 1.0601 215 rows/s
+11-08 17:09:22 fold_4 ep 1/8 step 12000/34998 loss 1.0591 214 rows/s
+11-08 17:11:51 fold_4 ep 1/8 step 14000/34998 loss 1.0579 214 rows/s
+11-08 17:14:21 fold_4 ep 1/8 step 16000/34998 loss 1.0560 214 rows/s
+11-08 17:16:49 fold_4 ep 1/8 step 18000/34998 loss 1.0549 214 rows/s
+11-08 17:19:14 fold_4 ep 1/8 step 20000/34998 loss 1.0543 215 rows/s
+11-08 17:21:41 fold_4 ep 1/8 step 22000/34998 loss 1.0541 215 rows/s
+11-08 17:24:06 fold_4 ep 1/8 step 24000/34998 loss 1.0539 216 rows/s
+11-08 17:26:34 fold_4 ep 1/8 step 26000/34998 loss 1.0532 216 rows/s
+11-08 17:28:59 fold_4 ep 1/8 step 28000/34998 loss 1.0528 216 rows/s
+11-08 17:31:23 fold_4 ep 1/8 step 30000/34998 loss 1.0535 216 rows/s
+11-08 17:33:49 fold_4 ep 1/8 step 32000/34998 loss 1.0521 217 rows/s
+11-08 17:36:12 fold_4 ep 1/8 step 34000/34998 loss 1.0511 217 rows/s
+11-08 17:37:37 fold_4: epoch 1/8 done, 43.2 min
+11-08 17:40:17 fold_4 ep 2/8 step 2000/34998 loss 1.0493 215 rows/s
+11-08 17:42:44 fold_4 ep 2/8 step 4000/34998 loss 1.0499 215 rows/s
+11-08 17:45:11 fold_4 ep 2/8 step 6000/34998 loss 1.0503 215 rows/s
+11-08 17:47:37 fold_4 ep 2/8 step 8000/34998 loss 1.0500 216 rows/s
+11-08 17:50:04 fold_4 ep 2/8 step 10000/34998 loss 1.0503 216 rows/s
+11-08 17:52:29 fold_4 ep 2/8 step 12000/34998 loss 1.0496 216 rows/s
+11-08 17:54:55 fold_4 ep 2/8 step 14000/34998 loss 1.0488 216 rows/s
+11-08 17:57:20 fold_4 ep 2/8 step 16000/34998 loss 1.0483 216 rows/s
+11-08 17:59:47 fold_4 ep 2/8 step 18000/34998 loss 1.0489 216 rows/s
+11-08 18:02:15 fold_4 ep 2/8 step 20000/34998 loss 1.0479 216 rows/s
+11-08 18:04:39 fold_4 ep 2/8 step 22000/34998 loss 1.0483 216 rows/s
+11-08 18:07:04 fold_4 ep 2/8 step 24000/34998 loss 1.0487 217 rows/s
+11-08 18:09:31 fold_4 ep 2/8 step 26000/34998 loss 1.0478 217 rows/s
+11-08 18:11:57 fold_4 ep 2/8 step 28000/34998 loss 1.0473 217 rows/s
+11-08 18:14:23 fold_4 ep 2/8 step 30000/34998 loss 1.0472 217 rows/s
+11-08 18:16:49 fold_4 ep 2/8 step 32000/34998 loss 1.0480 217 rows/s
+11-08 18:19:12 fold_4 ep 2/8 step 34000/34998 loss 1.0488 217 rows/s
+11-08 18:20:33 fold_4: epoch 2/8 done, 86.1 min
+11-08 18:23:01 fold_4 ep 3/8 step 2000/34998 loss 1.0456 217 rows/s
+11-08 18:25:32 fold_4 ep 3/8 step 4000/34998 loss 1.0465 217 rows/s
+11-08 18:28:12 fold_4 ep 3/8 step 6000/34998 loss 1.0462 216 rows/s
+11-08 18:30:47 fold_4 ep 3/8 step 8000/34998 loss 1.0468 216 rows/s
+11-08 18:33:16 fold_4 ep 3/8 step 10000/34998 loss 1.0459 216 rows/s
+11-08 18:35:38 fold_4 ep 3/8 step 12000/34998 loss 1.0460 216 rows/s
+11-08 18:38:00 fold_4 ep 3/8 step 14000/34998 loss 1.0456 216 rows/s
+11-08 18:40:20 fold_4 ep 3/8 step 16000/34998 loss 1.0457 217 rows/s
+11-08 18:42:42 fold_4 ep 3/8 step 18000/34998 loss 1.0457 217 rows/s
+11-08 18:45:02 fold_4 ep 3/8 step 20000/34998 loss 1.0456 217 rows/s
+11-08 18:47:23 fold_4 ep 3/8 step 22000/34998 loss 1.0455 217 rows/s
+11-08 18:49:47 fold_4 ep 3/8 step 24000/34998 loss 1.0443 217 rows/s
+11-08 18:52:08 fold_4 ep 3/8 step 26000/34998 loss 1.0458 217 rows/s
+11-08 18:54:29 fold_4 ep 3/8 step 28000/34998 loss 1.0457 218 rows/s
+11-08 18:56:48 fold_4 ep 3/8 step 30000/34998 loss 1.0454 218 rows/s
+11-08 18:59:08 fold_4 ep 3/8 step 32000/34998 loss 1.0449 218 rows/s
+11-08 19:01:27 fold_4 ep 3/8 step 34000/34998 loss 1.0445 218 rows/s
+11-08 19:02:43 fold_4: epoch 3/8 done, 128.3 min
+11-08 19:05:00 fold_4 ep 4/8 step 2000/34998 loss 1.0440 219 rows/s
+11-08 19:07:21 fold_4 ep 4/8 step 4000/34998 loss 1.0443 219 rows/s
+11-08 19:09:37 fold_4 ep 4/8 step 6000/34998 loss 1.0434 219 rows/s
+11-08 19:11:57 fold_4 ep 4/8 step 8000/34998 loss 1.0436 219 rows/s
+11-08 19:14:15 fold_4 ep 4/8 step 10000/34998 loss 1.0441 219 rows/s
+11-08 19:16:33 fold_4 ep 4/8 step 12000/34998 loss 1.0440 220 rows/s
+11-08 19:19:06 fold_4 ep 4/8 step 14000/34998 loss 1.0443 219 rows/s
+11-08 19:21:32 fold_4 ep 4/8 step 16000/34998 loss 1.0443 219 rows/s
+11-08 19:23:49 fold_4 ep 4/8 step 18000/34998 loss 1.0433 220 rows/s
+11-08 19:26:09 fold_4 ep 4/8 step 20000/34998 loss 1.0430 220 rows/s
+11-08 19:28:30 fold_4 ep 4/8 step 22000/34998 loss 1.0433 220 rows/s
+11-08 19:30:51 fold_4 ep 4/8 step 24000/34998 loss 1.0431 220 rows/s
+11-08 19:33:13 fold_4 ep 4/8 step 26000/34998 loss 1.0432 220 rows/s
+11-08 19:35:35 fold_4 ep 4/8 step 28000/34998 loss 1.0426 220 rows/s
+11-08 19:37:56 fold_4 ep 4/8 step 30000/34998 loss 1.0441 220 rows/s
+11-08 19:40:18 fold_4 ep 4/8 step 32000/34998 loss 1.0431 220 rows/s
+11-08 19:42:40 fold_4 ep 4/8 step 34000/34998 loss 1.0434 220 rows/s
+11-08 19:43:56 fold_4: epoch 4/8 done, 169.5 min
+11-08 19:46:22 fold_4 ep 5/8 step 2000/34998 loss 1.0430 220 rows/s
+11-08 19:48:49 fold_4 ep 5/8 step 4000/34998 loss 1.0413 220 rows/s
+11-08 19:51:14 fold_4 ep 5/8 step 6000/34998 loss 1.0411 220 rows/s
+11-08 19:53:41 fold_4 ep 5/8 step 8000/34998 loss 1.0418 220 rows/s
+11-08 19:56:09 fold_4 ep 5/8 step 10000/34998 loss 1.0413 220 rows/s
+11-08 19:58:34 fold_4 ep 5/8 step 12000/34998 loss 1.0425 220 rows/s
+11-08 20:00:55 fold_4 ep 5/8 step 14000/34998 loss 1.0425 220 rows/s
+11-08 20:03:15 fold_4 ep 5/8 step 16000/34998 loss 1.0420 220 rows/s
+11-08 20:05:37 fold_4 ep 5/8 step 18000/34998 loss 1.0429 220 rows/s
+11-08 20:07:54 fold_4 ep 5/8 step 20000/34998 loss 1.0413 221 rows/s
+11-08 20:10:25 fold_4 ep 5/8 step 22000/34998 loss 1.0421 220 rows/s
+11-08 20:12:58 fold_4 ep 5/8 step 24000/34998 loss 1.0431 220 rows/s
+11-08 20:15:18 fold_4 ep 5/8 step 26000/34998 loss 1.0415 220 rows/s
+11-08 20:17:39 fold_4 ep 5/8 step 28000/34998 loss 1.0420 220 rows/s
+11-08 20:20:02 fold_4 ep 5/8 step 30000/34998 loss 1.0425 220 rows/s
+11-08 20:22:22 fold_4 ep 5/8 step 32000/34998 loss 1.0418 221 rows/s
+11-08 20:24:43 fold_4 ep 5/8 step 34000/34998 loss 1.0402 221 rows/s
+11-08 20:26:01 fold_4: epoch 5/8 done, 211.6 min
+11-08 20:28:22 fold_4 ep 6/8 step 2000/34998 loss 1.0403 221 rows/s
+11-08 20:30:42 fold_4 ep 6/8 step 4000/34998 loss 1.0404 221 rows/s
+11-08 20:33:01 fold_4 ep 6/8 step 6000/34998 loss 1.0409 221 rows/s
+11-08 20:35:16 fold_4 ep 6/8 step 8000/34998 loss 1.0415 221 rows/s
+11-08 20:37:36 fold_4 ep 6/8 step 10000/34998 loss 1.0413 221 rows/s
+11-08 20:39:56 fold_4 ep 6/8 step 12000/34998 loss 1.0406 221 rows/s
+11-08 20:42:15 fold_4 ep 6/8 step 14000/34998 loss 1.0414 221 rows/s
+11-08 20:44:34 fold_4 ep 6/8 step 16000/34998 loss 1.0402 221 rows/s
+11-08 20:46:52 fold_4 ep 6/8 step 18000/34998 loss 1.0410 221 rows/s
+11-08 20:49:08 fold_4 ep 6/8 step 20000/34998 loss 1.0401 222 rows/s
+11-08 20:51:26 fold_4 ep 6/8 step 22000/34998 loss 1.0406 222 rows/s
+11-08 20:53:44 fold_4 ep 6/8 step 24000/34998 loss 1.0412 222 rows/s
+11-08 20:55:58 fold_4 ep 6/8 step 26000/34998 loss 1.0402 222 rows/s
+11-08 20:58:17 fold_4 ep 6/8 step 28000/34998 loss 1.0397 222 rows/s
+11-08 21:00:38 fold_4 ep 6/8 step 30000/34998 loss 1.0401 222 rows/s
+11-08 21:03:12 fold_4 ep 6/8 step 32000/34998 loss 1.0401 222 rows/s
+11-08 21:05:31 fold_4 ep 6/8 step 34000/34998 loss 1.0405 222 rows/s
+11-08 21:06:45 fold_4: epoch 6/8 done, 252.3 min
+11-08 21:09:04 fold_4 ep 7/8 step 2000/34998 loss 1.0387 222 rows/s
+11-08 21:11:22 fold_4 ep 7/8 step 4000/34998 loss 1.0390 222 rows/s
+11-08 21:13:38 fold_4 ep 7/8 step 6000/34998 loss 1.0389 222 rows/s
+11-08 21:15:56 fold_4 ep 7/8 step 8000/34998 loss 1.0387 222 rows/s
+11-08 21:18:13 fold_4 ep 7/8 step 10000/34998 loss 1.0389 222 rows/s
+11-08 21:20:32 fold_4 ep 7/8 step 12000/34998 loss 1.0396 222 rows/s
+11-08 21:22:51 fold_4 ep 7/8 step 14000/34998 loss 1.0403 223 rows/s
+11-08 21:25:11 fold_4 ep 7/8 step 16000/34998 loss 1.0395 223 rows/s
+11-08 21:27:27 fold_4 ep 7/8 step 18000/34998 loss 1.0388 223 rows/s
+11-08 21:29:48 fold_4 ep 7/8 step 20000/34998 loss 1.0390 223 rows/s
+11-08 21:32:08 fold_4 ep 7/8 step 22000/34998 loss 1.0399 223 rows/s
+11-08 21:34:29 fold_4 ep 7/8 step 24000/34998 loss 1.0390 223 rows/s
+11-08 21:36:50 fold_4 ep 7/8 step 26000/34998 loss 1.0399 223 rows/s
+11-08 21:39:07 fold_4 ep 7/8 step 28000/34998 loss 1.0406 223 rows/s
+11-08 21:41:25 fold_4 ep 7/8 step 30000/34998 loss 1.0392 223 rows/s
+11-08 21:43:45 fold_4 ep 7/8 step 32000/34998 loss 1.0391 223 rows/s
+11-08 21:46:03 fold_4 ep 7/8 step 34000/34998 loss 1.0397 223 rows/s
+11-08 21:47:21 fold_4: epoch 7/8 done, 292.9 min
+11-08 21:49:38 fold_4 ep 8/8 step 2000/34998 loss 1.0379 223 rows/s
+11-08 21:51:59 fold_4 ep 8/8 step 4000/34998 loss 1.0380 223 rows/s
+11-08 21:54:18 fold_4 ep 8/8 step 6000/34998 loss 1.0395 223 rows/s
+11-08 21:56:58 fold_4 ep 8/8 step 8000/34998 loss 1.0385 223 rows/s
+11-08 21:59:18 fold_4 ep 8/8 step 10000/34998 loss 1.0384 223 rows/s
+11-08 22:01:39 fold_4 ep 8/8 step 12000/34998 loss 1.0379 223 rows/s
+11-08 22:04:00 fold_4 ep 8/8 step 14000/34998 loss 1.0388 223 rows/s
+11-08 22:06:20 fold_4 ep 8/8 step 16000/34998 loss 1.0380 223 rows/s
+11-08 22:08:39 fold_4 ep 8/8 step 18000/34998 loss 1.0381 223 rows/s
+11-08 22:10:58 fold_4 ep 8/8 step 20000/34998 loss 1.0386 223 rows/s
+11-08 22:13:19 fold_4 ep 8/8 step 22000/34998 loss 1.0390 223 rows/s
+11-08 22:15:40 fold_4 ep 8/8 step 24000/34998 loss 1.0371 223 rows/s
+11-08 22:17:57 fold_4 ep 8/8 step 26000/34998 loss 1.0376 223 rows/s
+11-08 22:20:18 fold_4 ep 8/8 step 28000/34998 loss 1.0381 223 rows/s
+11-08 22:22:40 fold_4 ep 8/8 step 30000/34998 loss 1.0383 223 rows/s
+11-08 22:25:00 fold_4 ep 8/8 step 32000/34998 loss 1.0381 223 rows/s
+11-08 22:27:20 fold_4 ep 8/8 step 34000/34998 loss 1.0388 223 rows/s
+11-08 22:28:38 fold_4: epoch 8/8 done, 334.2 min
+11-08 22:34:49 fold 4: AUC 0.944473 (one order 0.943870)
+11-08 22:40:05 fold 4: train 334.4 min, score 11.5 min
+11-08 22:40:05 all requested folds finished

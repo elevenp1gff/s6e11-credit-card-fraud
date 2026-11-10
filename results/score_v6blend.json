@@ -1,0 +1,11 @@
+{
+ "tag": "v6blend",
+ "components": {
+  "gbr_e": 0.85,
+  "v6cnn": 0.15
+ },
+ "detail": "rank-average; v6cnn = 6-seed decimal-digit CNN ensemble",
+ "split": "StratifiedKFold(5, shuffle=True, random_state=42)",
+ "auc": 0.9509122809509211,
+ "gbr_e_alone": 0.9506265654211288
+}

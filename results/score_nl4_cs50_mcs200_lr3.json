@@ -1,0 +1,1 @@
+{"num_leaves": 4, "colsample": 0.5, "mcs": 200, "lr": 0.03, "tag": "nl4_cs50_mcs200_lr3", "auc": 0.9503675302109675, "secs": 630.3}

@@ -1,0 +1,22 @@
+# 大数据用 release 包分发，不进 git（仅限仓库根目录的 data/）
+/data/
+*.npy
+*.npz
+!figures/data/*.csv
+!figures/data/*.py
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 临时
+*.log
+!logs/*.log
+*.tmp

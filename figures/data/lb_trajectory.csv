@@ -1,0 +1,15 @@
+lb,rank,label
+0.95175,413,g4_var
+0.95217,330,bank19+extras
+0.95228,264,bank44
+0.95236,210,bank+pool+gb_rich
+0.95229,250,bank+pool+gbfamily7
+0.95222,290,CNN as stack column
+0.95237,82,stack + 6% CNN
+0.95238,120,independent-split member
+0.95267,60,public 200-member stack
+0.95285,35,two GPT-2 members
+0.95291,21,backbone + mine + LM
+0.95294,11,drop part9 entirely
+0.95297,45,LM = published + retrain
+0.95302,20,logit-space blending

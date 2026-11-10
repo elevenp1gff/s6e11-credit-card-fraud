@@ -1,0 +1,10 @@
+{
+ "tag": "v6cnn",
+ "model": "decimal-digit CNN, digit-axis conv + DeepSets",
+ "enc": "raw decimal digits, PAD token, W_INT=5 W_DEC=2",
+ "seeds": "42,17,31415,7,2024,999999",
+ "epochs": "60 (bagA) / 24 (bagB)",
+ "aggregation": "mean of top-3 epochs per seed, prob-average of 2 seed bags",
+ "split": "StratifiedKFold(5, shuffle=True, random_state=42)",
+ "auc": 0.945807755403468
+}

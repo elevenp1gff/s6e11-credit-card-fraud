@@ -1,0 +1,6 @@
+date,top10_cutoff,teams,source
+2026-11-02,0.95155,306,kaggle competitions leaderboard --download
+2026-11-04,0.95231,657,kaggle competitions leaderboard --download
+2026-11-06,0.95257,886,kaggle competitions leaderboard --download
+2026-11-07,0.95292,1009,kaggle competitions leaderboard --download
+2026-11-08,0.95309,1103,kaggle competitions leaderboard --download

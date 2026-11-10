@@ -1,0 +1,1 @@
+{"num_leaves": 8, "colsample": 0.6, "mcs": 200, "lr": 0.02, "tag": "nl8_cs60_mcs200_lr2", "auc": 0.9499962064273025, "secs": 717.8}

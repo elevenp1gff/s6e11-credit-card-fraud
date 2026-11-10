@@ -1,0 +1,14 @@
+technique,delta
+Digit-prefix target encoding,0.0026
+GPT-2 target-first,0.0018
+Public 200-member stack,0.00023
+logit-space blending,5e-05
+Independent CV splits,1e-05
+Public decimal CNN,1e-05
+70 vs 44 bank members,0.0
+TabPFN-3.5,0.0
+Self-trained digit CNN,0.0
+TabPack,-2e-05
+Member subset selection,-5e-05
+GLM-boost family,-7e-05
+Residual model on stack,-7e-05
